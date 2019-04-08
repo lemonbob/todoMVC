@@ -4,7 +4,9 @@
 
 Optimization of todoMVC project with attention to DOM/render-tree optimization, and MVC architecture to ensure proper decoupling of Model View and Controller components
 
-Optimizations have resulted in performance increase of 20-50 fold over existing code base in both Developer Tools and performanceNow() calculated methodologies
+Optimizations have resulted in performance increase of 20-50 fold over existing code base in both Developer Tools and performanceNow() calculated methodologies.
+
+> this demonstrates how the changes done have drastically improved the performance.
 
 For performanceNow() testing method, see js/performacetimer.
 
