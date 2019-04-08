@@ -6,7 +6,7 @@ Optimization of todoMVC project with attention to DOM/render-tree optimization, 
 
 Optimizations have resulted in performance increase of 20-50 fold over existing code base in both Developer Tools and performanceNow() calculated methodologies.
 
-> this demonstrates how the changes done have drastically improved the performance. Ashutosh Purushottam
+> this demonstrates how the changes done have drastically improved the performance. Ashutosh Purushottam (senior full-stack developer)
 
 For performanceNow() testing method, see js/performacetimer.
 
