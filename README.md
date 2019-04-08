@@ -1,6 +1,6 @@
 # todoMVC code optimization
 
-## Contribution to todoMVC.com 
+## Contribution to [todoMVC.com](http//:todomvc.com) 
 
 Optimization of todoMVC project with attention to DOM/render-tree optimization, and MVC architecture to ensure proper decoupling of Model View and Controller components
 
