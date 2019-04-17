@@ -1,12 +1,14 @@
 # todoMVC code optimization
 
-## [todo.polymathicdesign.com](http:/todo.polymathicdesign.com)
+## [fasttodo.polymathicdesign.com](http:/todo.polymathicdesign.com)
 
 ## Contribution to [todoMVC.com](http://todomvc.com) 
 
-Optimization of todoMVC project with attention to DOM/render-tree optimization, and MVC architecture to ensure proper decoupling of Model View and Controller components
+Optimization of todoMVC project with attention to DOM/render-tree optimization, and MVC architecture to ensure proper decoupling of Model View and Controller components.
 
-Optimizations have resulted in performance increase of 20-50 fold over existing code base in both Developer Tools and performanceNow() calculated methodologies.
+**Performance increase of 20-50 fold over existing javascript code and 500 fold over frameworks** 
+
+**Performance confirmed by Chrome Developer Tools and performanceNow() calculated methodologies.**
 
 > this demonstrates how the changes done have drastically improved the performance. Ashutosh Purushottam (senior full-stack developer)
 
